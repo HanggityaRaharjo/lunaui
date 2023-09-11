@@ -1,22 +1,12 @@
 {
-  "name": "lunaui-css",
-  "version": "1.0.0",
-  "description": "uicomponent for tailwind css",
+  "name": "lunaui",
+  "version": "1.0.2",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HanggityaRaharjo/lunaui.git"
-  },
-  "keywords": [
-    "lunaui"
-  ],
-  "author": "Hanggitya Raharjo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HanggityaRaharjo/lunaui/issues"
-  },
-  "homepage": "https://github.com/HanggityaRaharjo/lunaui#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
